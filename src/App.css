@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+p{
+  font-family: Nunito;
+  font-size: var(--XXS, 24px);
+  font-style: normal;
+  font-weight: var(--Weight-Regular, 500);
+  line-height: normal;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
