@@ -29,7 +29,7 @@
 }
 
 p{
-  font-family: Nunito;
+  font-family: Nunito, sans-serif;
   font-size: var(--XXS, 24px);
   font-style: normal;
   font-weight: var(--Weight-Regular, 500);
